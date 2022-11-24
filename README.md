@@ -23,19 +23,14 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+![b](https://user-images.githubusercontent.com/117289325/203823838-e543cd71-b6ce-47c8-a523-7e4945dd31ad.png)
+![2022-11-24 (2)](https://user-images.githubusercontent.com/117289325/203824046-62e60218-c4a7-4528-b1c7-40e9e6693cd5.png)
+![2022-11-24 (1)](https://user-images.githubusercontent.com/117289325/203824169-acc136c9-80e4-4261-8e1b-1b4dd59a2bfa.png)
+![2022-11-24 (3)](https://user-images.githubusercontent.com/117289325/203824290-4bfa1629-c2f5-4318-a2b3-dc7922a84a2e.png)
 
-![2022-11-11 (3)](https://user-images.githubusercontent.com/117289325/201396946-a004969b-6126-41d0-8943-8e933c65da73.png)
-![2022-11-11](https://user-images.githubusercontent.com/117289325/201396965-e56fc655-2a15-4d30-912d-71e45bf1bfb7.png)
-
-![2022-11-11 (5)](https://user-images.githubusercontent.com/117289325/201402379-4ca45f3c-cae6-4b0c-8190-51d574813db2.png)
-
-![cccc](https://user-images.githubusercontent.com/117289325/201402943-5227c1a6-9b3f-4d6a-983d-bfc30fbe75fd.png)
-
-![IMG_20221111_234328](https://user-images.githubusercontent.com/117289325/201403214-87a680de-0670-49ca-b559-5fdc56e0f6fb.jpg)
+Tech Stack 💻
 
 
-
-## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
